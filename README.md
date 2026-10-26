@@ -1,3 +1,11 @@
+## Live Dashboard
+
+Explore the interactive dashboard here:
+
+**[Open the OULAD ASBD Dashboard](https://oulad-asbd-project.streamlit.app/)**
+
+The dashboard presents exploratory data analysis, association-rule mining, algorithm benchmarking, classification results, and dataset insights using the Open University Learning Analytics Dataset.
+
 # Learning Engagement Pattern Mining and Course Improvement Intelligence Using OULAD
 
 An educational data-mining project that explores how students interact
