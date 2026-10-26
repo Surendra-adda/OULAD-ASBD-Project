@@ -1,0 +1,5 @@
+final_result,total_clicks,mean_clicks_per_student_resource_type,median_clicks_per_student_resource_type,student_resource_groups
+Pass,23755478,210.87676096972064,54.0,112651
+Distinction,8064279,284.9769948406248,67.0,28298
+Fail,4596865,92.48481007564783,23.0,49704
+Withdrawn,3188477,64.14930387896347,17.0,49704

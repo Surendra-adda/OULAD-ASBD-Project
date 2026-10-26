@@ -1,0 +1,3 @@
+algorithm,transactions,features,min_support,frequent_itemsets,runtime_seconds
+Apriori,29228,24,0.02,41319,10.691284
+FP-Growth,29228,24,0.02,41319,0.543107

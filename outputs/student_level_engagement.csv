@@ -1,0 +1,5 @@
+final_result,count,mean,median,min,max
+Distinction,3024,2666.76,1896.0,70,18039
+Fail,6678,688.36,353.0,1,11250
+Pass,12358,1922.28,1343.0,4,24139
+Withdrawn,7168,444.82,221.5,1,12401

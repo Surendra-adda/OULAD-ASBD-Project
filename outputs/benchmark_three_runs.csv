@@ -1,0 +1,7 @@
+run,algorithm,seconds
+1,Apriori,5.656012
+1,FP-Growth,0.379975
+2,Apriori,6.972838
+2,FP-Growth,0.489156
+3,Apriori,6.02884
+3,FP-Growth,0.421566

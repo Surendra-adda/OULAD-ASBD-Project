@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Original OULAD raw data — obtain separately
+data/raw/
+
+# Temporary files
+*.log
